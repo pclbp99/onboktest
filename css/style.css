@@ -28,6 +28,7 @@ body{
 header{
     display: none;
     position:fixed;
+    min-width: 1366px;
 }
 
 header img{
